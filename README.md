@@ -1,5 +1,7 @@
 # Singapore Carpark Availability Predictor
 
+This project is a machine learning-based tool that predicts the availability of parking lots at selected carparks across Singapore. Using historical availability data, weather forecasts, public holidays, and COE bidding results, it builds predictive models to forecast near-future parking demand. The tool supports both Random Forest and LSTM models, and stores data in a PostgreSQL database.
+
 
 ## Dataset Information
 
